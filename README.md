@@ -974,3 +974,4 @@ Or we use the reflog and jump back to after the rebase and `amend` the commit fr
 But by now you know how to do either of that, so I'll let you try that on your own. And in addition you also know that there's the `reflog` allowing you to undo most things you might end up doing by mistake. 
 
 cloned.
+dev
